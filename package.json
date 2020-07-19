@@ -1,0 +1,14 @@
+{
+  "name": "node_atlas_mongo",
+  "version": "1.0.0",
+  "description": "For cloud database project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "Jason Cariaga",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  }
+}
