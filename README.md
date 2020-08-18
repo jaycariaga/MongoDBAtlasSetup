@@ -1,5 +1,5 @@
 # MongoDBAtlasSetup
-very quick code to setup atlas onto node server
+very quick code to setup atlas onto NodeJS server using Mongo Native Driver dependency (not mongoose dependency)
 <h2>Necessary installations</h2>
 1. Install Node.js and MongoDB
 <br />
